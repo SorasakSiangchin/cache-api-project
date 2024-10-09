@@ -1,0 +1,6 @@
+@CacheProject_HostAddress = http://localhost:5222
+
+GET {{CacheProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
